@@ -1,0 +1,45 @@
+@media screen and (max-width:560px) {
+#main-header h2{
+    display: none;
+ }
+ #main-header h1{
+    padding-bottom: 2em;
+    font-size: 32px;
+ }
+ 
+ #figure-two{
+    float: none;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    
+}
+ #figure-one{
+    float: none;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    
+}
+#figure-one img{
+
+    margin-right: 0;
+    margin: 0 auto;
+    height: auto;
+    float: none;
+    width: 100%;
+}
+ #figure-two img{
+    
+    margin-right: 0;
+    margin: 0 auto;
+    height: auto;
+    float: none;
+    width: 100%;
+}
+ 
+aside h2{
+    font-size: 16px;
+}
+#main-nav ul{
+    gap: 1em;
+}
+}
